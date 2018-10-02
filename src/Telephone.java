@@ -102,9 +102,7 @@ public class Telephone {
      */
     public void ring()
     {
-        System.out.println("Riiiinng");
-        System.out.println("Riiiinng");
-        System.out.println("Riiiinng");
+        System.out.println("Ring Ring");
     }
 
     /**
